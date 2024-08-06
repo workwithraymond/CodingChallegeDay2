@@ -1,0 +1,14 @@
+C:\Day2PuzzleGame\CSharpProjects\Day2PuzzleGame\bin\Debug\net8.0\Day2PuzzleGame.exe
+C:\Day2PuzzleGame\CSharpProjects\Day2PuzzleGame\bin\Debug\net8.0\Day2PuzzleGame.deps.json
+C:\Day2PuzzleGame\CSharpProjects\Day2PuzzleGame\bin\Debug\net8.0\Day2PuzzleGame.runtimeconfig.json
+C:\Day2PuzzleGame\CSharpProjects\Day2PuzzleGame\bin\Debug\net8.0\Day2PuzzleGame.dll
+C:\Day2PuzzleGame\CSharpProjects\Day2PuzzleGame\bin\Debug\net8.0\Day2PuzzleGame.pdb
+C:\Day2PuzzleGame\CSharpProjects\Day2PuzzleGame\obj\Debug\net8.0\Day2PuzzleGame.GeneratedMSBuildEditorConfig.editorconfig
+C:\Day2PuzzleGame\CSharpProjects\Day2PuzzleGame\obj\Debug\net8.0\Day2PuzzleGame.AssemblyInfoInputs.cache
+C:\Day2PuzzleGame\CSharpProjects\Day2PuzzleGame\obj\Debug\net8.0\Day2PuzzleGame.AssemblyInfo.cs
+C:\Day2PuzzleGame\CSharpProjects\Day2PuzzleGame\obj\Debug\net8.0\Day2PuzzleGame.csproj.CoreCompileInputs.cache
+C:\Day2PuzzleGame\CSharpProjects\Day2PuzzleGame\obj\Debug\net8.0\Day2PuzzleGame.dll
+C:\Day2PuzzleGame\CSharpProjects\Day2PuzzleGame\obj\Debug\net8.0\refint\Day2PuzzleGame.dll
+C:\Day2PuzzleGame\CSharpProjects\Day2PuzzleGame\obj\Debug\net8.0\Day2PuzzleGame.pdb
+C:\Day2PuzzleGame\CSharpProjects\Day2PuzzleGame\obj\Debug\net8.0\Day2PuzzleGame.genruntimeconfig.cache
+C:\Day2PuzzleGame\CSharpProjects\Day2PuzzleGame\obj\Debug\net8.0\ref\Day2PuzzleGame.dll
